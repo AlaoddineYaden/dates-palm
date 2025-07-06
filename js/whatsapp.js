@@ -1,6 +1,6 @@
 class WhatsAppService {
   constructor() {
-    this.businessNumber = "+1234567890"; // Replace with actual number
+    this.businessNumber = "+212603162237"; // Replace with actual number
     this.businessHours = { start: 9, end: 18 };
   }
   openChat(message = "") {
